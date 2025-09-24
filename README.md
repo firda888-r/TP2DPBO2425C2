@@ -5,4 +5,4 @@ Relasi antar class :
 - TokoKomputer memiliki child (cucu dari Tokoelektronik) yaitu TokoKomponen komputer yang memiliki atribut (Jenis/nama komponen komputer, merk komponen komputer, harga komponen komputer) dan memiliki method add data Komponen.
 Ketiga data toko diisi dengan menggunakan method add data dengan meminta inputan dari user, dan membuat 5 data secara hardcode.
 Seluruh data ditampikan dalam satu tabel dengan menggunakan tabel dinamis dengan melalui kelas cucu (TokoKomponen), karena kelas ini secara otomatis mewarisi semua atribut dan method dari parent dan child, sehingga mampu menampilkan informasi toko secara lengkap dalam satu kesatuan.
-![](Dokumentasi cpp/cpp.jpg)
+![](DokumentasiCPP/cpp.jpg)
