@@ -6,8 +6,6 @@ Relasi antar class :
 Ketiga data toko diisi dengan menggunakan method add data dengan meminta inputan dari user, dan membuat 5 data secara hardcode.
 Seluruh data ditampikan dalam satu tabel dengan menggunakan tabel dinamis dengan melalui kelas cucu (TokoKomponen), karena kelas ini secara otomatis mewarisi semua atribut dan method dari parent dan child, sehingga mampu menampilkan informasi toko secara lengkap dalam satu kesatuan.
 ![cpp](DokumentasiCPP/cpp.jpg)
-![php](DokumentasiPHP/webPHP.jpg)
-![php](DokumentasiPHP/php.jpg)
 ![java](DokumentasiJAVA/java.jpg)
 ![python](Dokumentasipython/python.jpg)
 
